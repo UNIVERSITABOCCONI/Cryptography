@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Apexnet.Security.Cryptography;
 
-namespace EncryptLibrary.Test
+namespace Cryptography.Test
 {
     [TestClass]
     public class TestUrlCompatibleCipher
